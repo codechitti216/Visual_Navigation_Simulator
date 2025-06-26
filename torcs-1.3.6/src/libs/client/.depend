@@ -1,7 +1,7 @@
 entry.o: entry.cpp /usr/include/stdc-predef.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/client.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/client.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -138,7 +138,7 @@ entry.o: entry.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -158,10 +158,10 @@ entry.o: entry.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
  /usr/include/plib/ssg.h /usr/include/plib/sg.h \
  /usr/include/plib/ssgconf.h mainmenu.h splash.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/musicplayer/musicplayer.h
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/musicplayer/musicplayer.h
 mainmenu.o: mainmenu.cpp /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -186,8 +186,8 @@ mainmenu.o: mainmenu.cpp /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
@@ -300,7 +300,7 @@ mainmenu.o: mainmenu.cpp /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -320,9 +320,9 @@ mainmenu.o: mainmenu.cpp /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/singleplayer.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/driverconfig.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/singleplayer.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/driverconfig.h \
  mainmenu.h exitmenu.h optionmenu.h
 splash.o: splash.cpp /usr/include/stdc-predef.h /usr/include/GL/glut.h \
  /usr/include/GL/freeglut_std.h /usr/include/GL/gl.h \
@@ -386,11 +386,11 @@ splash.o: splash.cpp /usr/include/stdc-predef.h /usr/include/GL/glut.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/portability.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/portability.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/config.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/config.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -470,7 +470,7 @@ splash.o: splash.cpp /usr/include/stdc-predef.h /usr/include/GL/glut.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/plib/js.h /usr/include/plib/ul.h /usr/include/ctype.h \
  /usr/include/dlfcn.h /usr/include/x86_64-linux-gnu/bits/dlfcn.h \
  /usr/include/x86_64-linux-gnu/bits/dl_find_object.h /usr/include/fcntl.h \
@@ -484,7 +484,7 @@ splash.o: splash.cpp /usr/include/stdc-predef.h /usr/include/GL/glut.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
  splash.h mainmenu.h
 exitmenu.o: exitmenu.cpp /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -510,8 +510,8 @@ exitmenu.o: exitmenu.cpp /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
@@ -624,7 +624,7 @@ exitmenu.o: exitmenu.cpp /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -644,7 +644,7 @@ exitmenu.o: exitmenu.cpp /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
  exitmenu.h mainmenu.h /usr/include/x86_64-linux-gnu/sys/shm.h \
  /usr/include/x86_64-linux-gnu/sys/ipc.h \
  /usr/include/x86_64-linux-gnu/bits/ipctypes.h \
@@ -679,8 +679,8 @@ optionmenu.o: optionmenu.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
@@ -793,7 +793,7 @@ optionmenu.o: optionmenu.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -813,9 +813,9 @@ optionmenu.o: optionmenu.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
  optionmenu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphconfig.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simuconfig.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/soundconfig.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/openglconfig.h
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphconfig.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simuconfig.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/soundconfig.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/openglconfig.h

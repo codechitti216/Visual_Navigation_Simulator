@@ -203,6 +203,8 @@ void cGrScreen::selectCamera(long cam)
 	char path[BUFSIZE];
 	char path2[BUFSIZE];
 
+	// NEW: Print when camera changes
+	printf("Camera Change: curCamHead changing from %d to %d\n", curCamHead, cam);
 
 	if (cam == curCamHead) {
 		/* Same camera list, choose the next one */
@@ -319,26 +321,29 @@ void cGrScreen::camDraw(tSituation *s)
 			
 			// Print camera list every 60 frames (about once per second)
 			if (camera_list_print_counter % 60 == 0) {
-				printf("ViNT: Current camera - Head=%d, ID=%d\n", curCamHead, curCam->getId());
-				printf("ViNT: === AVAILABLE CAMERA VIEWS ===\n");
+				// COMMENTED OUT: printf("ViNT: Current camera - Head=%d, ID=%d\n", curCamHead, curCam->getId());
+				// COMMENTED OUT: printf("ViNT: === AVAILABLE CAMERA VIEWS ===\n");
 				
-				// Print all available cameras in all sections
-				for (int head = 0; head < 3; head++) {
-					printf("ViNT: --- Camera Head %d (F%d key) ---\n", head, head+1);
-					class cGrCamera *cam = GF_TAILQ_FIRST(&cams[head]);
-					int cam_count = 0;
-					while (cam) {
-						printf("ViNT:   ID=%d (Camera %d in this head)\n", cam->getId(), cam_count);
-						cam = cam->next();
-						cam_count++;
-					}
-					if (cam_count == 0) {
-						printf("ViNT:   (No cameras in this head)\n");
-					}
-				}
-				printf("ViNT: ===========================\n");
-				printf("ViNT: Please tell me which Head and ID you want!\n");
-				printf("ViNT: (e.g., 'Head=1, ID=2' or 'F2, Camera 2')\n");
+				// COMMENTED OUT: Print all available cameras in all sections
+				// COMMENTED OUT: for (int head = 0; head < 3; head++) {
+				// COMMENTED OUT: 	printf("ViNT: --- Camera Head %d (F%d key) ---\n", head, head+1);
+				// COMMENTED OUT: 	class cGrCamera *cam = GF_TAILQ_FIRST(&cams[head]);
+				// COMMENTED OUT: 	int cam_count = 0;
+				// COMMENTED OUT: 	while (cam) {
+				// COMMENTED OUT: 		printf("ViNT:   ID=%d (Camera %d in this head)\n", cam->getId(), cam_count);
+				// COMMENTED OUT: 		cam = cam->next();
+				// COMMENTED OUT: 		cam_count++;
+				// COMMENTED OUT: 	}
+				// COMMENTED OUT: 	if (cam_count == 0) {
+				// COMMENTED OUT: 		printf("ViNT:   (No cameras in this head)\n");
+				// COMMENTED OUT: 	}
+				// COMMENTED OUT: }
+				// COMMENTED OUT: printf("ViNT: ===========================\n");
+				// COMMENTED OUT: printf("ViNT: Please tell me which Head and ID you want!\n");
+				// COMMENTED OUT: printf("ViNT: (e.g., 'Head=1, ID=2' or 'F2, Camera 2')\n");
+				
+				// NEW: Simple print statement for curCamHead variable
+				printf("Camera Debug: curCamHead = %d, Camera ID = %d\n", curCamHead, curCam->getId());
 				fflush(stdout);
 			}
 			camera_list_print_counter++;
@@ -366,7 +371,7 @@ void cGrScreen::camDraw(tSituation *s)
 				}
 			}
 			logging_camera_forced = false;
-			printf("ViNT: Restored original camera view\n");
+			// COMMENTED OUT: printf("ViNT: Restored original camera view\n");
 		}
 		
 		logVintFrame(curCar, scrx, scry, scrw, scrh);
@@ -493,8 +498,9 @@ void cGrScreen::loadParams(tSituation *s)
 	}
 	snprintf(path2, BUFSIZE, "%s/%s", GR_SCT_DISPMODE, curCar->_name);
 
-	curCamHead	= (int)GfParmGetNum(grHandle, path, GR_ATT_CAM_HEAD, NULL, 9);
-	camNum	= (int)GfParmGetNum(grHandle, path, GR_ATT_CAM, NULL, 0);
+	// DEFAULT: Set to curCamHead = 0, Camera ID = 4 (road view without car)
+	curCamHead	= (int)GfParmGetNum(grHandle, path, GR_ATT_CAM_HEAD, NULL, 0);  // Changed from 9 to 0
+	camNum	= (int)GfParmGetNum(grHandle, path, GR_ATT_CAM, NULL, 4);  // Changed from 0 to 4
 	mirrorFlag	= (int)GfParmGetNum(grHandle, path, GR_ATT_MIRROR, NULL, (tdble)mirrorFlag);
 	curCamHead	= (int)GfParmGetNum(grHandle, path2, GR_ATT_CAM_HEAD, NULL, (tdble)curCamHead);
 	camNum	= (int)GfParmGetNum(grHandle, path2, GR_ATT_CAM, NULL, (tdble)camNum);
@@ -511,9 +517,20 @@ void cGrScreen::loadParams(tSituation *s)
 	}
 
 	if (curCam == NULL) {
-		// back to default camera
+		// DEFAULT FALLBACK: Set to curCamHead = 0, Camera ID = 4 (road view without car)
 		curCamHead = 0;
+		cam = GF_TAILQ_FIRST(&cams[curCamHead]);
+		while (cam) {
+			if (cam->getId() == 4) {
+				curCam = (cGrPerspCamera*)cam;
+				break;
+			}
+			cam = cam->next();
+		}
+		// If ID 4 doesn't exist, fallback to first camera in head 0
+		if (curCam == NULL) {
 		curCam = (cGrPerspCamera*)GF_TAILQ_FIRST(&cams[curCamHead]);
+		}
 		GfParmSetNum(grHandle, path, GR_ATT_CAM, NULL, (tdble)curCam->getId());
 		GfParmSetNum(grHandle, path, GR_ATT_CAM_HEAD, NULL, (tdble)curCamHead);
 	}

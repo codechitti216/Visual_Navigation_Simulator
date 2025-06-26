@@ -1,0 +1,8 @@
+{
+  "track_name": "Ushite-city-ficos",
+  "session_id": 1750923114610803,
+  "frame_resolution": [512, 512],
+  "camera_type": "ego_centric_cockpit",
+  "lookahead_distance": 10.0,
+  "start_time": 1750923114610803
+}

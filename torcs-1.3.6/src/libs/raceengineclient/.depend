@@ -55,8 +55,8 @@ singleplayer.o: singleplayer.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -137,7 +137,7 @@ singleplayer.o: singleplayer.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -157,18 +157,18 @@ singleplayer.o: singleplayer.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/raceman.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/car.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/track.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/linalg_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v2_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v3_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v4_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/straight2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/raceman.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/car.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/track.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/linalg_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v3_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v4_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/straight2_t.h \
  /usr/include/plib/sg.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphic.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphic.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simu.h \
  raceengine.h racemain.h raceinit.h racestate.h
 raceinit.o: raceinit.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/stdlib.h /usr/include/c++/11/cstdlib \
@@ -227,8 +227,8 @@ raceinit.o: raceinit.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -309,7 +309,7 @@ raceinit.o: raceinit.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -329,23 +329,23 @@ raceinit.o: raceinit.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/raceman.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/car.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/track.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/linalg_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v2_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v3_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v4_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/straight2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/raceman.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/car.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/track.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/linalg_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v3_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v4_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/straight2_t.h \
  /usr/include/plib/sg.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphic.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/robot.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/racescreens.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/robottools.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/portability.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/config.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphic.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/robot.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/racescreens.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/robottools.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/portability.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/config.h \
  /usr/include/c++/11/string /usr/include/c++/11/bits/stringfwd.h \
  /usr/include/c++/11/bits/memoryfwd.h \
  /usr/include/c++/11/bits/char_traits.h \
@@ -400,7 +400,7 @@ raceinit.o: raceinit.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/bits/invoke.h \
  /usr/include/c++/11/bits/stl_multimap.h \
  /usr/include/c++/11/bits/erase_if.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/musicplayer/musicplayer.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/musicplayer/musicplayer.h \
  /usr/include/GL/freeglut.h /usr/include/GL/freeglut_ext.h raceengine.h \
  racemain.h racestate.h racegl.h raceresults.h raceinit.h
 racemain.o: racemain.cpp /usr/include/stdc-predef.h \
@@ -460,8 +460,8 @@ racemain.o: racemain.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -542,7 +542,7 @@ racemain.o: racemain.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -562,26 +562,26 @@ racemain.o: racemain.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/raceman.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/car.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/track.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/linalg_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v2_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v3_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v4_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/straight2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/raceman.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/car.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/track.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/linalg_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v3_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v4_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/straight2_t.h \
  /usr/include/plib/sg.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphic.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/robot.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/racescreens.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/exitmenu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/musicplayer/musicplayer.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/portability.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/config.h raceengine.h \
- raceinit.h racegl.h raceresults.h racestate.h racemanmenu.h racemain.h \
- /usr/include/x86_64-linux-gnu/sys/shm.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphic.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/robot.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/racescreens.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/exitmenu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/musicplayer/musicplayer.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/portability.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/config.h \
+ raceengine.h raceinit.h racegl.h raceresults.h racestate.h racemanmenu.h \
+ racemain.h /usr/include/x86_64-linux-gnu/sys/shm.h \
  /usr/include/x86_64-linux-gnu/sys/ipc.h \
  /usr/include/x86_64-linux-gnu/bits/ipctypes.h \
  /usr/include/x86_64-linux-gnu/bits/ipc.h \
@@ -647,8 +647,8 @@ racemanmenu.o: racemanmenu.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -729,7 +729,7 @@ racemanmenu.o: racemanmenu.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -749,23 +749,23 @@ racemanmenu.o: racemanmenu.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/raceman.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/car.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/track.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/linalg_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v2_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v3_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v4_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/straight2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/raceman.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/car.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/track.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/linalg_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v3_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v4_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/straight2_t.h \
  /usr/include/plib/sg.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphic.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/racescreens.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/driverconfig.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/portability.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/config.h raceengine.h \
- racemain.h raceinit.h racestate.h racemanmenu.h
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphic.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/racescreens.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/driverconfig.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/portability.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/config.h \
+ raceengine.h racemain.h raceinit.h racestate.h racemanmenu.h
 racestate.o: racestate.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/stdlib.h /usr/include/c++/11/cstdlib \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -823,8 +823,8 @@ racestate.o: racestate.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -905,7 +905,7 @@ racestate.o: racestate.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -925,19 +925,19 @@ racestate.o: racestate.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/raceman.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/car.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/track.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/linalg_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v2_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v3_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v4_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/straight2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/raceman.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/car.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/track.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/linalg_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v3_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v4_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/straight2_t.h \
  /usr/include/plib/sg.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphic.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/racescreens.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphic.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/racescreens.h \
  racemain.h raceinit.h raceengine.h racegl.h raceresults.h racemanmenu.h \
  racestate.h /usr/include/execinfo.h
 racegl.o: racegl.cpp /usr/include/stdc-predef.h \
@@ -997,8 +997,8 @@ racegl.o: racegl.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -1079,7 +1079,7 @@ racegl.o: racegl.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -1099,19 +1099,19 @@ racegl.o: racegl.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/raceman.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/car.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/track.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/linalg_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v2_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v3_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v4_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/straight2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/raceman.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/car.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/track.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/linalg_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v3_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v4_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/straight2_t.h \
  /usr/include/plib/sg.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphic.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/robot.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphic.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/robot.h \
  racemain.h raceinit.h racestate.h raceengine.h racegl.h
 raceengine.o: raceengine.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/stdlib.h /usr/include/c++/11/cstdlib \
@@ -1170,8 +1170,8 @@ raceengine.o: raceengine.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -1252,7 +1252,7 @@ raceengine.o: raceengine.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -1272,25 +1272,25 @@ raceengine.o: raceengine.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/robot.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/raceman.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/car.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/track.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/linalg_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v2_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v3_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v4_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/straight2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/robot.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/raceman.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/car.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/track.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/linalg_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v3_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v4_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/straight2_t.h \
  /usr/include/plib/sg.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphic.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/racescreens.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/robottools.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/portability.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/config.h racestate.h \
- racemain.h racegl.h raceinit.h raceresults.h raceengine.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/collect_segmentation.h
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphic.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/racescreens.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/robottools.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/portability.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/config.h \
+ racestate.h racemain.h racegl.h raceinit.h raceresults.h raceengine.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/collect_segmentation.h
 raceresults.o: raceresults.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/stdlib.h /usr/include/c++/11/cstdlib \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -1352,8 +1352,8 @@ raceresults.o: raceresults.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/bits/timex.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgfclient.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tgf.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgfclient.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tgf.h \
  /usr/include/x86_64-linux-gnu/sys/param.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -1434,7 +1434,7 @@ raceresults.o: raceresults.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/osspec.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/osspec.h \
  /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
  /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h \
@@ -1454,21 +1454,21 @@ raceresults.o: raceresults.cpp /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/screen_properties.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/robot.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/raceman.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/car.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/track.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/linalg_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v2_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v3_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/v4_t.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/tmath/straight2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/screen_properties.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/robot.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/raceman.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/car.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/track.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/linalg_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v2_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v3_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/v4_t.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/tmath/straight2_t.h \
  /usr/include/plib/sg.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/graphic.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/simu.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/racescreens.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/robottools.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/export/include/portability.h \
- /home/surya/Desktop/Surya/rlTORCS/torcs-1.3.6/config.h racemain.h \
- racegl.h raceinit.h raceengine.h raceresults.h
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/graphic.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/simu.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/racescreens.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/robottools.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/export/include/portability.h \
+ /home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/torcs-1.3.6/config.h \
+ racemain.h racegl.h raceinit.h raceengine.h raceresults.h

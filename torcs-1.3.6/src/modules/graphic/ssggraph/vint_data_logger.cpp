@@ -55,7 +55,7 @@ extern "C" int initVintDataLogger(const char* track_name) {
     // Create session ID (timestamp)
     g_session_start_time = getCurrentTimestamp();
     std::stringstream ss;
-    ss << "./vint_torcs_logs/" << track_name << "_" << g_session_start_time;
+    ss << "/home/surya/Desktop/Surya/rlTORCS/Visual_Navigation_Simulator/vint_torcs_logs/" << track_name << "_" << g_session_start_time;
     g_log_dir = ss.str();
     
     // Create directory structure
